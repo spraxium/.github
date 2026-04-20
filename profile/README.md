@@ -31,10 +31,6 @@ Each part of the framework is a standalone package. You include only what your p
 npx @spraxium/cli new my-bot
 ```
 
-Documentation and guides at [spraxium.dev](https://spraxium.com).
+Documentation and guides at [spraxium.com](https://spraxium.com).
 
----
-
-<p align="center">
-  Built by <strong>Spacelaxy</strong>
-</p>
+Built by [Spacelaxy](https://github.com/spacelaxy)
